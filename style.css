@@ -1,0 +1,5 @@
+:root { color-scheme: light dark; }
+body { margin: 0; padding: 2rem 1rem 4rem; font-family: -apple-system, "Hiragino Sans", "Yu Gothic", "Segoe UI", sans-serif; line-height: 1.7; max-width: 46rem; margin-inline: auto; color: #222; background: #fafafa; }
+@media (prefers-color-scheme: dark) { body { color: #e6e6e6; background: #151719; } a { color: #8ab4f8; } }
+h1 { font-size: 1.6rem; margin-top: 0; } h2 { font-size: 1.15rem; margin-top: 2rem; border-bottom: 1px solid #8884; padding-bottom: .3rem; }
+nav a { margin-right: 1rem; } footer { margin-top: 3rem; font-size: .85rem; opacity: .7; } table { border-collapse: collapse; } td, th { border: 1px solid #8884; padding: .4rem .6rem; text-align: left; vertical-align: top; }
